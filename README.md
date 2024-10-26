@@ -171,6 +171,8 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 ### Fig 11: Launching Simulation Waveform WindowSimulation Waveform Window
 
 ### Fig 12: Simulation Waveform Window
+![image](https://github.com/user-attachments/assets/fc40edb7-ae39-4ebe-b0b4-9171ce3a69eb)
+
 
 
 
